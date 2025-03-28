@@ -43,6 +43,8 @@ About Page for Mood Muse:
 
 ![image](https://github.com/user-attachments/assets/53c78b1b-bd54-4fce-bc04-c45ba5881a76)
 
+**Live Project Link:** https://mood-muse.netlify.app/
+
 
 ## License
 
